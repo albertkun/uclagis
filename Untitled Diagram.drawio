@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-26T19:43:47.560Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="3W5q0LM3CMTCaZqeoGoS" version="12.3.0" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-26T19:57:00.785Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="4b1BO9HsyMaQSs14DpvA" version="12.3.0" type="github" pages="1">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="1536" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -72,15 +72,6 @@
               <mxPoint x="935.5" y="480"/>
             </Array>
             <mxPoint x="2" y="-8" as="offset"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7HnK9eXFFECSjdr3EfDR-73" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=11;rounded=1;fontStyle=1;strokeColor=#23445D;strokeWidth=4;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1535.5" y="820" as="targetPoint"/>
-            <mxPoint x="1320" y="930" as="sourcePoint"/>
-            <Array as="points">
-              <mxPoint x="1536.5" y="1020"/>
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7HnK9eXFFECSjdr3EfDR-63" value="ArcGIS Desktop" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;align=center;" vertex="1" parent="1">
