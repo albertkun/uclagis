@@ -1,20 +1,20 @@
-<mxfile host="www.draw.io" modified="2019-11-26T01:05:50.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="eFpsOpkltVU9gR3iizG9" version="12.3.0" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-26T01:07:59.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="NndOq-PkeqTlZ5VCbYXT" version="12.3.0" type="github" pages="1">
   <diagram id="TM56AApIJGsK2dMGK2SN" name="Page-1">
-    <mxGraphModel dx="1097" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="904" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
+        <mxCell id="83t1UOICG0Fvpa5K2XZv-42" value="&lt;div align=&quot;right&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=right;" vertex="1" parent="1">
+          <mxGeometry x="260" y="155" width="590" height="410" as="geometry"/>
+        </mxCell>
         <mxCell id="83t1UOICG0Fvpa5K2XZv-34" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#FFE6CC;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="880" y="155" width="210" height="220" as="geometry"/>
-        </mxCell>
-        <mxCell id="83t1UOICG0Fvpa5K2XZv-32" value="&lt;div align=&quot;right&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=right;" vertex="1" parent="1">
-          <mxGeometry x="260" y="155" width="590" height="410" as="geometry"/>
         </mxCell>
         <mxCell id="83t1UOICG0Fvpa5K2XZv-11" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#FFE6CC;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="20" y="154" width="220" height="180" as="geometry"/>
         </mxCell>
         <mxCell id="xH67i2G3ats3fvDuuUHO-1" value="UCLA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="400" y="40" width="120" height="60" as="geometry"/>
+          <mxGeometry x="488.5" y="40" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="xH67i2G3ats3fvDuuUHO-2" value="Geography" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="60" y="170" width="120" height="40" as="geometry"/>
@@ -36,7 +36,7 @@
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="83t1UOICG0Fvpa5K2XZv-1" value="&lt;div&gt;a) Research support&lt;/div&gt;&lt;div&gt;b) Workshops&lt;/div&gt;" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#F8CECC;labelBorderColor=none;" edge="1" parent="1" target="83t1UOICG0Fvpa5K2XZv-2">
+        <mxCell id="83t1UOICG0Fvpa5K2XZv-1" value="&lt;div&gt;a) Research support&lt;/div&gt;&lt;div&gt;b) Workshops&lt;/div&gt;" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#F8CECC;labelBorderColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xH67i2G3ats3fvDuuUHO-1" target="83t1UOICG0Fvpa5K2XZv-2">
           <mxGeometry x="0.4444" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="100" as="sourcePoint"/>
             <mxPoint x="460" y="280" as="targetPoint"/>
@@ -60,18 +60,18 @@
           <mxGeometry x="57.5" y="298" width="145" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="83t1UOICG0Fvpa5K2XZv-7" value="&lt;div&gt;ArcGIS Online Instance:&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;gisucla.maps.arcgis.com&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="342" y="530" width="410" height="20" as="geometry"/>
+          <mxGeometry x="344.5" y="533" width="410" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="83t1UOICG0Fvpa5K2XZv-10" value="Administers" style="endArrow=classic;html=1;labelBackgroundColor=#F8CECC;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="83t1UOICG0Fvpa5K2XZv-2">
-          <mxGeometry x="-0.1157" y="-1" width="50" height="50" relative="1" as="geometry">
+        <mxCell id="83t1UOICG0Fvpa5K2XZv-10" value="Administers" style="endArrow=classic;html=1;labelBackgroundColor=#F8CECC;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="83t1UOICG0Fvpa5K2XZv-2">
+          <mxGeometry x="0.0499" y="1" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="117" y="640" as="sourcePoint"/>
             <mxPoint x="547" y="520" as="targetPoint"/>
-            <mxPoint y="-1" as="offset"/>
+            <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="83t1UOICG0Fvpa5K2XZv-14" value="Utilizes" style="endArrow=classic;html=1;labelBackgroundColor=#F8CECC;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="83t1UOICG0Fvpa5K2XZv-17">
           <mxGeometry x="0.2963" y="-3" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="100" as="sourcePoint"/>
+            <mxPoint x="550" y="100" as="sourcePoint"/>
             <mxPoint x="650" y="110" as="targetPoint"/>
             <mxPoint as="offset"/>
           </mxGeometry>
@@ -117,7 +117,7 @@
         <mxCell id="83t1UOICG0Fvpa5K2XZv-31" value="" style="endArrow=none;html=1;labelBackgroundColor=#FFE6CC;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="83t1UOICG0Fvpa5K2XZv-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="356" y="409" as="sourcePoint"/>
-            <mxPoint x="490" y="450" as="targetPoint"/>
+            <mxPoint x="510" y="460" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="83t1UOICG0Fvpa5K2XZv-35" value="&lt;div&gt;-geohub&lt;/div&gt;&lt;div&gt;-ucla geocoder&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
