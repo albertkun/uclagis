@@ -1,10 +1,10 @@
-<mxfile host="www.draw.io" modified="2019-12-05T21:33:55.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="IVqsRrVGTZvuG9EBK0Ur" version="12.3.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-05T21:34:52.511Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="CmK7PRwcykZ8t4MRoERF" version="12.3.7" type="github" pages="1">
   <diagram id="NvCQgJdSBM-2ycp9VXMA" name="Page-1">
     <mxGraphModel dx="1097" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="OlXNlt9vMctowWqhXaBs-2" value="Current GIS Licensing Process at UCLA " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fillColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="OlXNlt9vMctowWqhXaBs-2" value="Current GIS Licensing Process at UCLA - Nov 2019 " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="280" y="50" width="840" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="OlXNlt9vMctowWqhXaBs-3" value="Software Central&#xa;(Office of Information Technology)" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;verticalAlign=middle;whiteSpace=wrap;" parent="1" vertex="1">
@@ -99,8 +99,8 @@
             <mxPoint x="300" y="145" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OlXNlt9vMctowWqhXaBs-32" value="Single Sign On (Shibboleth)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;" parent="1" vertex="1">
-          <mxGeometry x="623" y="600" width="360" height="30" as="geometry"/>
+        <mxCell id="OlXNlt9vMctowWqhXaBs-32" value="Single Sign On (Shibboleth)" style="rounded=0;html=1;strokeColor=#999999;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="623" y="590" width="360" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
